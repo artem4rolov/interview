@@ -1,0 +1,19 @@
+.app {
+  &-container {
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    gap: 10px;
+
+    width: 100vw;
+    height: 100vh;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}

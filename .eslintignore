@@ -1,0 +1,6 @@
+.eslintrc.js
+src/index.tsx
+public
+node_modules
+**/*.json
+**/*.module.scss
